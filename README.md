@@ -13,19 +13,19 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Bayo Arot|
+| **LinkedIn** |[Bayo-Arot] (https://www.linkedin.com/in/bayo-arot-450261337) |
+| **Location** | Chicago, United State |
+| **Background** | EMR Consultant, Cerner/Epic Specialist & Go-live Support |
+| **Goal** | To Automate healthcare infrastructure without jeopardizing patient care| |
 
 ---
 
 ## About the Program
 
-**DevOps Micro Internship with Agentic AI** is a 15-week mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, 5,000+ learners trained, and 20K+ LinkedIn followers.
+**DevOps Micro Internship with Agentic AI** is a 15-week hands-on,industry expert, mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, trained over 5,000+ Cloud Engineer with 20K+ LinkedIn followers.
 
-This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
+This is not a course. but a do it yourself internship-style program — that deploys, real pipelines, real evidence reviewed by mentors every week.
 
 - 🌐 Program Website: https://dmi.pravinmishra.com
 - 💬 Discord Community: https://discord.pravinmishra.com
@@ -56,7 +56,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/host2007/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
@@ -64,13 +64,13 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
+**Your stack:**
 
 <!-- Week 00 → Internet & Networking Basics -->
 <!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -111,7 +111,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 14 → Final Project / Capstone -->
 <!-- [![Week 14 – Capstone](./badges/week-14.svg)](./week-14-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
 
 ---
 
@@ -133,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ completed| ✅ solved | https://www.linkedin.com/posts/bayo-arot-450261337_over-a-decade-ago-i-began-my-career-in-emr-share-7478793772399480832-2qxT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSTtzwB7JhRVQbPgpmKkSW9B9lwgmTwSXI | Medium : https://medium.com/@abelarot2007changing-lives-through-technology-how-pravin-mishra-and-the-devops-mentoring-internship-program-2362af7185ce|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |

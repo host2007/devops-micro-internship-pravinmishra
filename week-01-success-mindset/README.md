@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+
+Most people belief that to be successful in life, one must come from a privilege background, attend Ivy League School or be lucky. This is contrary to my believe, that success is a journey and can be achieved provided one has the right mindset and possesses positive attitude. You can be the most common person in the world and still do something extraordinary in life. Winning starts by changing one’s thinking, in addition to the willingness to work and the burning desire to be somebody. Dreaming, setting  goals and achieving them are key to success in life, career, home and  etc.  Whatever those goals might be. Ensuring that they are simple, written, measurable and time bound.  Also if one is accountable to the set goals, success is inevitable.
 
 ---
 
@@ -45,21 +46,21 @@ Objective truths do not depend on opinions. They hold true regardless of how peo
 
 Write each truth in this format:
 
-**Truth:** (1 sentence)
+**Truth:** 
 
-**Evidence from my life:** (2–4 lines: what you tried + what happened)
+**Evidence from my life:** 
 
 ---
 
-## Truth #1
+## Truth #1  
 
 ### Truth
 
-Add your answer here...
+Every living soul want to be somebody or achieve a goal but not everybody can pay the prize or sacrifice to achieve the set goal.
 
 ### Evidence from my life
 
-Add your answer here...
+Last year i told  myself that i want to read a book monthly. I kept proctastinating that i will start today, tomorrow and next. No practical effort towards it, so could not acheive it. This year is different. First, i have the right mindset, I wrote the pages of book to be read daily, minimum hours to be committed, i ensured my phone is put away when reading the book. With this practical effort, my life has changed and I'm making progress as we speak.
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Another important truth is to believe in myself.
 
 ### Evidence from my life
 
-Add your answer here...
+When confidence is erroded, achievement or success would be unreachable. The day i began to believe  in myself was when my confidence was restore. Whatever people say about me no longe matter to me. The only thing that matter to me is my opnion about myself. This confidence brought about extra strenght in me with such a positve energy and i can do it attitude. Each day, i say to myself no mountain is unsumoutable, once i put my mind to it and i plan accordingly, it would be achieved. This is responsible for the improvement in my reading culture.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Life will not give me what I want but I have to to take what I want from life.
 
 ### Evidence from my life
 
-Add your answer here...
+We all desire on thing or the other and we set the goal to achieve it. It is my dream to a DevoOps Engineer, when the opportunity came i competed for a slot and here i am today. I will continue to compete till the end of the program. Also, when i'm done with the program, i will also compete for a position. In more i compete and win more success is achieved in life. 
 
 ---
 
@@ -135,11 +136,19 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+My experience on the clinical front end gives me an advantage that many engineers do not have. I understand how healthcare professionals work, the urgency of uninterrupted access to patient information, and the consequences of system failures. By combining this practical knowledge with modern DevOps practices, cloud architecture, automation, Infrastructure as Code, containerization, and continuous integration and deployment (CI/CD), I plan to help build healthcare systems that are faster, more secure, more reliable, and easier to maintain.
+
+Over the next five to seven years, my vision is to contribute to healthcare by helping hospitals modernize legacy systems, accelerate the deployment of new clinical applications, strengthen cybersecurity, and improve disaster recovery through cloud technologies. My goal is to help create Clinical Ai Agent that will assist physician to document and create their note allowing clinicians to spend less time waiting on technology spend and more time caring for patients.
+Beyond healthcare, I believe the principles of DevOps and cloud computing have the power to transform every sector that serves humanity. Whether supporting public health, education, government, or humanitarian organizations, I hope to contribute to technology that is resilient, scalable, and accessible to people around the world through post on LinkedIn and social media platform.
+
+Technology is most meaningful when it improves lives. My journey from EMR consulting to DevOps and Cloud Engineer is driven by that belief and a commitment not only to building better systems, but also to advancing healthcare and human progress through innovation. 
+Additionally, giving back to younger generation is my commitment to society and mankind.  The way Pravin Mishra provided a platform for me to learn DevOps and Cloud computing. Presently, some schools in Nigeria are provided computer for digital experience and transformation. This program would be expanded to capture more schools.   
+
 
 ### Public Link
 
-Paste your link here:
+**P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
+
 
 `__________________________`
 
@@ -167,13 +176,15 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+Yes.
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
+ My previous job required traveling nationally and internationally, there were times when I got to the airport and the queue was so long, instead of waiting in line for my turn. I would cut those in line off pretending to be late for my flight till I passed security. Though people complained while passing them, I do not give a damn
+On this day, after cutting everyone off, I got to my gate and reflected on my situation. The feeling was terrible, I felt ashamed and guilty of my actions. though, I was late for my trip, i should have appealed to those on my way before passing them. From that date I made a commitment to myself not to cut corners however bad the situation may be as well as derive pride in doing things rightly. 
+ The experience taught me that it's better to leave home on time than to be late and cut people off..
 
 ---
 
@@ -199,16 +210,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. All you can do is all you can do but all you can do is enough
+2. The 5am Club by Robin Sharma
+3. Leading Change by John Porter
+4. The Battlefield of the Mind by Joyce Mayer
+5. 8 Steps to Create the life you want by Creflo Dollar
+6. Enjoying Where you are on the way to where you are going By Joyce Mayer
+7. Atomic Habit by James Clear
+8. The 7 Habits of Highly Effective People by stephen Covey
+9. Mindset: The New Psychology of Success by Carl S Dweck
+10. The Psychology of Money by Morgan Housel
 
 ---
 
@@ -237,16 +248,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* physical health hours od sleep/day, quality of food consumed
+* Learning- List book read, courses completed per day, per quarter.
+* Mental Health- My daily step count, exercise 3 x per week, daily hour of rest
+* Career/Project-  I will measure Monthly project completed, Accolate’s received, Certification earned 
+* Finance- Monitor income received, expenses and amount saved.  Make monthly additional source of income.
+*Home front- spend quality time with family, pray with family, reach out to mentor and Mentor others. Daily family dinner
+*Spirituality-set daily prayer hour, read the scripture daily, weekly church service
+* Relationship- Get study partner, join Investment group, network with professional protege and mentor alike
+* Fitness- Join a gym club, workout minimum of 3 times a week.
+* Social Media- Regulate my social media usage. Care only about what matters not junks.
 
 ---
 
@@ -270,9 +281,15 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+My mind is occupied with several things at the moment. My number one priority is completing my DevOps and Cloud Computing training assignment and continuing building  my skills through hands-on projects without jeopardizing my full-time job. Maximize this opportunity and complete the  program in Six months. 
+On personal note and the home front, I'm keeping track of my monthly bills, managing my finances, and working toward increasing my savings and investments. I want to stay healthy by exercising at least three time a week, eating right and getting enough sleep. I'm also want to make time for my family, take them to the park at least once a week and maintain good relationships with friends despite a busy schedule.
+
+There are a few emails and messages I still need to respond to, along with personal errands and appointments that I need to schedule. I have several ideas for future projects, including building cloud-based applications, contributing to healthcare technology, and eventually starting a consulting business that combines my healthcare experience with DevOps and cloud computing.
+Like anyone, I have some worries. I think about whether I'm learning quickly enough, staying focused on the right priorities, and making good decisions for my long-term career. At the same time, I have clear goals: become a skilled Cloud and DevOps Engineer, earn industry certifications, continue growing professionally, achieve financial stability, and make a meaningful impact by using technology to improve healthcare and other industries.
+Writing everything down helps clear my mind, plan ahead, prioritize my daily, weekly and monthly goals, help specify the time to achieve the goals. Also, seeing this written goal everyday will energize my commitment to achieving it. Finally, what prize to pay or sacrifice to make would be decided as I daily review the written evidence of what is in my mind.
+
 
 ---
 
@@ -290,19 +307,20 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
----
+Mon-Thur 2 hours of deep work
+Fri:Relax and sleep after work to prepare for the long night. DMI session is  11.30 pm at night.
+Sat: Recuperate from the night session sleep and attend to family
+Sun: Weekly review-
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Do 50% of DMI assignment on sunday.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Devote 2 hours daily monday -thursday for the rest assignment until completion
 
 ---
 
@@ -316,36 +334,36 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
----
+Keep phone on silent to avoid distraction
+Keep away from social media
+Lock myself in my room for all DMI session assignment---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+To achieve anything in life start with the right mindset. Once that is done, plan accordingly, set goals, write the goals down, make them plain, measurable and time bound. Place it where you can see it daily and decide the price to pay to achieve it. Once i adhere strictly to it,  It is a matter of time i will get there.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is not knowing when to stop and rest even when i'm tired.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Get enough rest and let my brian recuperate. Follow my schedule 
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
 
+https://www.linkedin.com/posts/bayo-arot-450261337_over-a-decade-ago-i-began-my-career-in-emr-share-7478793772399480832-2qxT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSTtzwB7JhRVQbPgpmKkSW9B9lwgmTwSXI
 `__________________________`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/bayo-arot-450261337_over-a-decade-ago-i-began-my-career-in-emr-share-7478793772399480832-2qxT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSTtzwB7JhRVQbPgpmKkSW9B9lwgmTwSXI  
+- Blog / Medium : https://medium.com/@abelarot2007/changing-lives-through-technology-how-pravin-mishra-and-the-devops-mentoring-internship-program-2362af7185ce
 
 ---
 
