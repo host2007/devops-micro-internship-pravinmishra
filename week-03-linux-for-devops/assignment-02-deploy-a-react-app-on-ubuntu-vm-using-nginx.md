@@ -6,7 +6,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ## Purpose
 
-In this assignment, you will deploy a React application on an Ubuntu EC2 instance and serve it using Nginx. You will provision a Linux server, install the required tools, personalize the application with your details, and verify that it is publicly accessible via a browser.
+In this assignment, I deployed a React application on an Ubuntu EC2 instance and served it using Nginx. I also provisioned a Linux server, installed the required tools, personalized the application with my details, and verified that it is publicly accessible via a browser.
 
 ---
 
@@ -20,7 +20,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-Add your screenshot here.
+<![Image1](screenshots/Assignment2_task1.png)>
 
 ---
 
@@ -34,7 +34,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<![Image2](screenshots/Assignment2_task2.png)>
 
 ---
 
@@ -48,7 +48,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+<![Image3](screenshots/Assignment2_task3.png)>
 
 ---
 
@@ -62,7 +62,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
+<![Image4](screenshots/Assignment2_task4.png)>
 
 ---
 
@@ -76,7 +76,7 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
+<![Image5](screenshots/Assignment2_task5.png)>
 
 ---
 
@@ -90,9 +90,9 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
+<![Image6](screenshots/Assignment2_task6.png)>
 
----
+
 
 # Task 7 — Configure Nginx for React Application
 
@@ -104,13 +104,13 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-Add your screenshot here.
+<![Image7](screenshots/Assignment2_task7a.png)>
 
 ---
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
+<![Image8](screenshots/Assignment2_task7b.png)>
 
 ---
 
@@ -124,13 +124,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<![Image9](screenshots/Assignment2_task8.png)>
 
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-Add your screenshot here.
+<![Image10](screenshots/Assignment2_task9.png)>
 
 ---
 
@@ -142,13 +142,13 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/bayo-arot-450261337_the-race-is-in-activity-7482929669764198400-xOze?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSTtzwB7JhRVQbPgpmKkSW9B9lwgmTwSXI`
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+<![Image11](screenshots/Assignment2_task10.png)>
 
 ---
 
@@ -162,17 +162,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Node.js and npm installed and verified (Screenshot 1)
-- [ ] Nginx installed and running (Screenshot 2)
-- [ ] Repository cloned and files verified (Screenshot 3)
-- [ ] App.js updated with full name and date (Screenshot 4)
-- [ ] Production build generated (Screenshot 5)
-- [ ] Build files deployed to Nginx web root (Screenshot 6)
-- [ ] Nginx configured and active (Screenshots 7 & 8)
-- [ ] Public IP retrieved (Screenshot 9)
-- [ ] React app accessible in browser with personal details visible (Screenshot 10)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [✅ ] Node.js and npm installed and verified (Screenshot 1)
+- [✅ ] Nginx installed and running (Screenshot 2)
+- [✅ ] Repository cloned and files verified (Screenshot 3)
+- [✅ ] App.js updated with full name and date (Screenshot 4)
+- [✅] Production build generated (Screenshot 5)
+- [✅ ] Build files deployed to Nginx web root (Screenshot 6)
+- [✅ ] Nginx configured and active (Screenshots 7 & 8)
+- [✅ ] Public IP retrieved (Screenshot 9)
+- [✅ ] React app accessible in browser with personal details visible (Screenshot 10)
+- [✅ ] LinkedIn post published and URL submitted
+- [✅ ] No sensitive data exposed
 
 ---
 
