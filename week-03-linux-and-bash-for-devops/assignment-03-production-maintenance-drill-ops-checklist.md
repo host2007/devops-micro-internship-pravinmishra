@@ -10,7 +10,7 @@ In this assignment, you will treat your already deployed React application (on U
 
 ---
 
-# Task 1 — Server Access & Networking Validation
+# Task 1 — Server Access & Networking Validation:i
 
 ## Goal
 
